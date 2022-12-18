@@ -1,0 +1,263 @@
+2022-05-25 10:12:16,358 - logger - INFO - log启动
+2022-05-25 11:04:36,446 - logger - INFO - log启动
+2022-05-25 13:25:30,694 - logger - INFO - log启动
+2022-05-25 16:46:19,428 - logger - INFO - log启动
+2022-05-25 21:18:14,839 - logger - INFO - log启动
+2022-05-25 21:23:29,868 - logger - INFO - log启动
+2022-05-25 21:23:37,644 - logger - INFO - Training Loss per 5000 steps: 0.679196298122406
+2022-05-25 21:23:37,644 - logger - INFO - Training Accuracy per 5000 steps: 68.0
+2022-05-25 21:23:42,184 - logger - INFO - Training Loss per 5000 steps: 0.6856430118734186
+2022-05-25 21:23:42,184 - logger - INFO - Training Accuracy per 5000 steps: 56.72727272727273
+2022-05-25 21:23:46,745 - logger - INFO - Training Loss per 5000 steps: 0.6825433600516546
+2022-05-25 21:23:46,746 - logger - INFO - Training Accuracy per 5000 steps: 58.857142857142854
+2022-05-25 21:23:51,073 - logger - INFO - Training Loss per 5000 steps: 0.6809565790237919
+2022-05-25 21:23:51,073 - logger - INFO - Training Accuracy per 5000 steps: 60.0
+2022-05-25 21:23:55,475 - logger - INFO - Training Loss per 5000 steps: 0.6807194686517483
+2022-05-25 21:23:55,476 - logger - INFO - Training Accuracy per 5000 steps: 59.609756097560975
+2022-05-25 21:23:59,587 - logger - INFO - The Total Accuracy for Epoch 0: 60.369774919614144
+2022-05-25 21:23:59,588 - logger - INFO - Training Loss Epoch: 0.6791416096687317
+2022-05-25 21:23:59,588 - logger - INFO - Training Accuracy Epoch: 60.369774919614144
+2022-05-25 21:23:59,588 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:23:59,589 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:24:01,636 - logger - INFO - Validation Accuracy Epoch: 66.77631578947368
+2022-05-25 21:24:01,636 - logger - INFO - Accuracy on test data = 66.78%
+2022-05-25 21:24:02,578 - logger - INFO - Training Loss per 5000 steps: 0.6726957559585571
+2022-05-25 21:24:02,578 - logger - INFO - Training Accuracy per 5000 steps: 64.0
+2022-05-25 21:24:06,962 - logger - INFO - Training Loss per 5000 steps: 0.6579323356801813
+2022-05-25 21:24:06,962 - logger - INFO - Training Accuracy per 5000 steps: 64.72727272727273
+2022-05-25 21:24:11,325 - logger - INFO - Training Loss per 5000 steps: 0.6559176615306309
+2022-05-25 21:24:11,326 - logger - INFO - Training Accuracy per 5000 steps: 64.95238095238095
+2022-05-25 21:24:15,989 - logger - INFO - Training Loss per 5000 steps: 0.6538730686710726
+2022-05-25 21:24:15,990 - logger - INFO - Training Accuracy per 5000 steps: 64.90322580645162
+2022-05-25 21:24:20,745 - logger - INFO - Training Loss per 5000 steps: 0.6505127374718829
+2022-05-25 21:24:20,746 - logger - INFO - Training Accuracy per 5000 steps: 65.85365853658537
+2022-05-25 21:24:25,098 - logger - INFO - The Total Accuracy for Epoch 1: 65.03215434083602
+2022-05-25 21:24:25,098 - logger - INFO - Training Loss Epoch: 0.6516345524787903
+2022-05-25 21:24:25,099 - logger - INFO - Training Accuracy Epoch: 65.03215434083602
+2022-05-25 21:24:25,099 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:24:25,099 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:24:27,161 - logger - INFO - Validation Accuracy Epoch: 72.69736842105263
+2022-05-25 21:24:27,162 - logger - INFO - Accuracy on test data = 72.70%
+2022-05-25 21:24:27,985 - logger - INFO - Training Loss per 5000 steps: 0.6513715386390686
+2022-05-25 21:24:27,985 - logger - INFO - Training Accuracy per 5000 steps: 60.0
+2022-05-25 21:24:32,404 - logger - INFO - Training Loss per 5000 steps: 0.6279890103773638
+2022-05-25 21:24:32,404 - logger - INFO - Training Accuracy per 5000 steps: 72.36363636363636
+2022-05-25 21:24:36,852 - logger - INFO - Training Loss per 5000 steps: 0.622383767650241
+2022-05-25 21:24:36,852 - logger - INFO - Training Accuracy per 5000 steps: 74.47619047619048
+2022-05-25 21:24:41,274 - logger - INFO - Training Loss per 5000 steps: 0.6196246973929866
+2022-05-25 21:24:41,275 - logger - INFO - Training Accuracy per 5000 steps: 75.61290322580645
+2022-05-25 21:24:45,697 - logger - INFO - Training Loss per 5000 steps: 0.6132288735087325
+2022-05-25 21:24:45,697 - logger - INFO - Training Accuracy per 5000 steps: 76.58536585365853
+2022-05-25 21:24:49,858 - logger - INFO - The Total Accuracy for Epoch 2: 77.41157556270096
+2022-05-25 21:24:49,858 - logger - INFO - Training Loss Epoch: 0.6071872735023498
+2022-05-25 21:24:49,859 - logger - INFO - Training Accuracy Epoch: 77.41157556270096
+2022-05-25 21:24:49,859 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:24:49,859 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:24:51,976 - logger - INFO - Validation Accuracy Epoch: 80.92105263157895
+2022-05-25 21:24:51,976 - logger - INFO - Accuracy on test data = 80.92%
+2022-05-25 21:24:52,759 - logger - INFO - Training Loss per 5000 steps: 0.5377830266952515
+2022-05-25 21:24:52,759 - logger - INFO - Training Accuracy per 5000 steps: 88.0
+2022-05-25 21:24:57,213 - logger - INFO - Training Loss per 5000 steps: 0.554823252287778
+2022-05-25 21:24:57,213 - logger - INFO - Training Accuracy per 5000 steps: 87.63636363636364
+2022-05-25 21:25:01,665 - logger - INFO - Training Loss per 5000 steps: 0.5441380001249767
+2022-05-25 21:25:01,665 - logger - INFO - Training Accuracy per 5000 steps: 87.61904761904762
+2022-05-25 21:25:06,070 - logger - INFO - Training Loss per 5000 steps: 0.5399774793655642
+2022-05-25 21:25:06,070 - logger - INFO - Training Accuracy per 5000 steps: 88.0
+2022-05-25 21:25:10,535 - logger - INFO - Training Loss per 5000 steps: 0.5368406089340768
+2022-05-25 21:25:10,535 - logger - INFO - Training Accuracy per 5000 steps: 88.0
+2022-05-25 21:25:14,686 - logger - INFO - The Total Accuracy for Epoch 3: 88.02250803858522
+2022-05-25 21:25:14,686 - logger - INFO - Training Loss Epoch: 0.5345019906759262
+2022-05-25 21:25:14,687 - logger - INFO - Training Accuracy Epoch: 88.02250803858522
+2022-05-25 21:25:14,687 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:25:14,687 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:25:16,761 - logger - INFO - Validation Accuracy Epoch: 83.22368421052632
+2022-05-25 21:25:16,762 - logger - INFO - Accuracy on test data = 83.22%
+2022-05-25 21:25:17,983 - logger - INFO - Training Loss per 5000 steps: 0.4781331717967987
+2022-05-25 21:25:17,983 - logger - INFO - Training Accuracy per 5000 steps: 92.0
+2022-05-25 21:25:22,487 - logger - INFO - Training Loss per 5000 steps: 0.5012544556097551
+2022-05-25 21:25:22,487 - logger - INFO - Training Accuracy per 5000 steps: 90.54545454545455
+2022-05-25 21:25:26,946 - logger - INFO - Training Loss per 5000 steps: 0.5000668324175335
+2022-05-25 21:25:26,946 - logger - INFO - Training Accuracy per 5000 steps: 91.23809523809524
+2022-05-25 21:25:31,675 - logger - INFO - Training Loss per 5000 steps: 0.4888765158191804
+2022-05-25 21:25:31,675 - logger - INFO - Training Accuracy per 5000 steps: 92.12903225806451
+2022-05-25 21:25:36,378 - logger - INFO - Training Loss per 5000 steps: 0.48644776605978246
+2022-05-25 21:25:36,378 - logger - INFO - Training Accuracy per 5000 steps: 92.29268292682927
+2022-05-25 21:25:40,692 - logger - INFO - The Total Accuracy for Epoch 4: 92.60450160771704
+2022-05-25 21:25:40,693 - logger - INFO - Training Loss Epoch: 0.48430287003517153
+2022-05-25 21:25:40,693 - logger - INFO - Training Accuracy Epoch: 92.60450160771704
+2022-05-25 21:25:40,693 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:25:40,694 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:25:42,883 - logger - INFO - Validation Accuracy Epoch: 82.89473684210526
+2022-05-25 21:25:42,883 - logger - INFO - Accuracy on test data = 82.89%
+2022-05-25 21:25:43,966 - logger - INFO - Training Loss per 5000 steps: 0.424419105052948
+2022-05-25 21:25:43,967 - logger - INFO - Training Accuracy per 5000 steps: 100.0
+2022-05-25 21:25:48,406 - logger - INFO - Training Loss per 5000 steps: 0.45559681816534564
+2022-05-25 21:25:48,407 - logger - INFO - Training Accuracy per 5000 steps: 96.36363636363636
+2022-05-25 21:25:52,822 - logger - INFO - Training Loss per 5000 steps: 0.464496218022846
+2022-05-25 21:25:52,822 - logger - INFO - Training Accuracy per 5000 steps: 94.66666666666667
+2022-05-25 21:25:57,266 - logger - INFO - Training Loss per 5000 steps: 0.4597505436789605
+2022-05-25 21:25:57,266 - logger - INFO - Training Accuracy per 5000 steps: 94.96774193548387
+2022-05-25 21:26:01,682 - logger - INFO - Training Loss per 5000 steps: 0.45961761547297963
+2022-05-25 21:26:01,683 - logger - INFO - Training Accuracy per 5000 steps: 95.3170731707317
+2022-05-25 21:26:05,839 - logger - INFO - The Total Accuracy for Epoch 5: 95.2572347266881
+2022-05-25 21:26:05,839 - logger - INFO - Training Loss Epoch: 0.4604124540090561
+2022-05-25 21:26:05,839 - logger - INFO - Training Accuracy Epoch: 95.2572347266881
+2022-05-25 21:26:05,840 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:26:05,840 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:26:07,903 - logger - INFO - Validation Accuracy Epoch: 79.60526315789474
+2022-05-25 21:26:07,904 - logger - INFO - Accuracy on test data = 79.61%
+2022-05-25 21:26:11,527 - logger - INFO - Training Loss per 5000 steps: 0.44406354427337646
+2022-05-25 21:26:11,527 - logger - INFO - Training Accuracy per 5000 steps: 92.0
+2022-05-25 21:26:15,936 - logger - INFO - Training Loss per 5000 steps: 0.4436139085076072
+2022-05-25 21:26:15,936 - logger - INFO - Training Accuracy per 5000 steps: 96.72727272727273
+2022-05-25 21:26:20,338 - logger - INFO - Training Loss per 5000 steps: 0.4524246042683011
+2022-05-25 21:26:20,338 - logger - INFO - Training Accuracy per 5000 steps: 95.61904761904762
+2022-05-25 21:26:24,767 - logger - INFO - Training Loss per 5000 steps: 0.45727560981627435
+2022-05-25 21:26:24,767 - logger - INFO - Training Accuracy per 5000 steps: 95.48387096774194
+2022-05-25 21:26:29,185 - logger - INFO - Training Loss per 5000 steps: 0.45435184821849917
+2022-05-25 21:26:29,185 - logger - INFO - Training Accuracy per 5000 steps: 95.60975609756098
+2022-05-25 21:26:33,328 - logger - INFO - The Total Accuracy for Epoch 6: 95.41800643086816
+2022-05-25 21:26:33,329 - logger - INFO - Training Loss Epoch: 0.4558675163984299
+2022-05-25 21:26:33,329 - logger - INFO - Training Accuracy Epoch: 95.41800643086816
+2022-05-25 21:26:33,329 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:26:33,330 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:26:35,397 - logger - INFO - Validation Accuracy Epoch: 82.89473684210526
+2022-05-25 21:26:35,398 - logger - INFO - Accuracy on test data = 82.89%
+2022-05-25 21:26:36,395 - logger - INFO - Training Loss per 5000 steps: 0.46112510561943054
+2022-05-25 21:26:36,396 - logger - INFO - Training Accuracy per 5000 steps: 96.0
+2022-05-25 21:26:40,825 - logger - INFO - Training Loss per 5000 steps: 0.43953432820060034
+2022-05-25 21:26:40,826 - logger - INFO - Training Accuracy per 5000 steps: 97.81818181818181
+2022-05-25 21:26:45,252 - logger - INFO - Training Loss per 5000 steps: 0.44096197258858455
+2022-05-25 21:26:45,252 - logger - INFO - Training Accuracy per 5000 steps: 96.95238095238095
+2022-05-25 21:26:50,050 - logger - INFO - Training Loss per 5000 steps: 0.43976545910681447
+2022-05-25 21:26:50,051 - logger - INFO - Training Accuracy per 5000 steps: 97.16129032258064
+2022-05-25 21:26:54,580 - logger - INFO - Training Loss per 5000 steps: 0.4409309342140105
+2022-05-25 21:26:54,580 - logger - INFO - Training Accuracy per 5000 steps: 96.6829268292683
+2022-05-25 21:26:58,826 - logger - INFO - The Total Accuracy for Epoch 7: 96.46302250803859
+2022-05-25 21:26:58,827 - logger - INFO - Training Loss Epoch: 0.44280102610588074
+2022-05-25 21:26:58,827 - logger - INFO - Training Accuracy Epoch: 96.46302250803859
+2022-05-25 21:26:58,827 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:26:58,827 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:27:00,942 - logger - INFO - Validation Accuracy Epoch: 81.25
+2022-05-25 21:27:00,943 - logger - INFO - Accuracy on test data = 81.25%
+2022-05-25 21:27:01,954 - logger - INFO - Training Loss per 5000 steps: 0.4327179193496704
+2022-05-25 21:27:01,954 - logger - INFO - Training Accuracy per 5000 steps: 100.0
+2022-05-25 21:27:06,454 - logger - INFO - Training Loss per 5000 steps: 0.44582159139893274
+2022-05-25 21:27:06,454 - logger - INFO - Training Accuracy per 5000 steps: 95.27272727272727
+2022-05-25 21:27:10,893 - logger - INFO - Training Loss per 5000 steps: 0.44033677379290265
+2022-05-25 21:27:10,894 - logger - INFO - Training Accuracy per 5000 steps: 95.80952380952381
+2022-05-25 21:27:15,387 - logger - INFO - Training Loss per 5000 steps: 0.43691105419589626
+2022-05-25 21:27:15,387 - logger - INFO - Training Accuracy per 5000 steps: 96.7741935483871
+2022-05-25 21:27:19,891 - logger - INFO - Training Loss per 5000 steps: 0.43859397492757657
+2022-05-25 21:27:19,891 - logger - INFO - Training Accuracy per 5000 steps: 96.58536585365853
+2022-05-25 21:27:24,079 - logger - INFO - The Total Accuracy for Epoch 8: 96.70418006430869
+2022-05-25 21:27:24,079 - logger - INFO - Training Loss Epoch: 0.4390791183710098
+2022-05-25 21:27:24,079 - logger - INFO - Training Accuracy Epoch: 96.70418006430869
+2022-05-25 21:27:24,080 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:27:24,080 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:27:26,159 - logger - INFO - Validation Accuracy Epoch: 80.92105263157895
+2022-05-25 21:27:26,159 - logger - INFO - Accuracy on test data = 80.92%
+2022-05-25 21:27:27,893 - logger - INFO - Training Loss per 5000 steps: 0.44122520089149475
+2022-05-25 21:27:27,894 - logger - INFO - Training Accuracy per 5000 steps: 96.0
+2022-05-25 21:27:32,319 - logger - INFO - Training Loss per 5000 steps: 0.43113209171728656
+2022-05-25 21:27:32,319 - logger - INFO - Training Accuracy per 5000 steps: 97.45454545454545
+2022-05-25 21:27:36,779 - logger - INFO - Training Loss per 5000 steps: 0.43460811035973684
+2022-05-25 21:27:36,779 - logger - INFO - Training Accuracy per 5000 steps: 97.14285714285714
+2022-05-25 21:27:41,214 - logger - INFO - Training Loss per 5000 steps: 0.43735778716302687
+2022-05-25 21:27:41,214 - logger - INFO - Training Accuracy per 5000 steps: 97.16129032258064
+2022-05-25 21:27:45,734 - logger - INFO - Training Loss per 5000 steps: 0.4393963726555429
+2022-05-25 21:27:45,735 - logger - INFO - Training Accuracy per 5000 steps: 96.6829268292683
+2022-05-25 21:27:49,903 - logger - INFO - The Total Accuracy for Epoch 9: 96.94533762057878
+2022-05-25 21:27:49,903 - logger - INFO - Training Loss Epoch: 0.4366089957952499
+2022-05-25 21:27:49,904 - logger - INFO - Training Accuracy Epoch: 96.94533762057878
+2022-05-25 21:27:49,904 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:27:49,904 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:27:51,986 - logger - INFO - Validation Accuracy Epoch: 80.92105263157895
+2022-05-25 21:27:51,986 - logger - INFO - Accuracy on test data = 80.92%
+2022-05-25 21:27:52,814 - logger - INFO - Training Loss per 5000 steps: 0.4353064298629761
+2022-05-25 21:27:52,814 - logger - INFO - Training Accuracy per 5000 steps: 100.0
+2022-05-25 21:27:57,241 - logger - INFO - Training Loss per 5000 steps: 0.4324982085011222
+2022-05-25 21:27:57,242 - logger - INFO - Training Accuracy per 5000 steps: 97.45454545454545
+2022-05-25 21:28:01,703 - logger - INFO - Training Loss per 5000 steps: 0.43039257469631376
+2022-05-25 21:28:01,703 - logger - INFO - Training Accuracy per 5000 steps: 97.9047619047619
+2022-05-25 21:28:06,171 - logger - INFO - Training Loss per 5000 steps: 0.43343096586965746
+2022-05-25 21:28:06,171 - logger - INFO - Training Accuracy per 5000 steps: 97.6774193548387
+2022-05-25 21:28:10,622 - logger - INFO - Training Loss per 5000 steps: 0.43427195418171766
+2022-05-25 21:28:10,622 - logger - INFO - Training Accuracy per 5000 steps: 97.26829268292683
+2022-05-25 21:28:14,796 - logger - INFO - The Total Accuracy for Epoch 10: 97.50803858520901
+2022-05-25 21:28:14,796 - logger - INFO - Training Loss Epoch: 0.43291329085826874
+2022-05-25 21:28:14,797 - logger - INFO - Training Accuracy Epoch: 97.50803858520901
+2022-05-25 21:28:14,797 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:28:14,797 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:28:16,884 - logger - INFO - Validation Accuracy Epoch: 79.9342105263158
+2022-05-25 21:28:16,885 - logger - INFO - Accuracy on test data = 79.93%
+2022-05-25 21:28:17,906 - logger - INFO - Training Loss per 5000 steps: 0.4503827691078186
+2022-05-25 21:28:17,906 - logger - INFO - Training Accuracy per 5000 steps: 96.0
+2022-05-25 21:28:22,366 - logger - INFO - Training Loss per 5000 steps: 0.43142360990697687
+2022-05-25 21:28:22,367 - logger - INFO - Training Accuracy per 5000 steps: 97.0909090909091
+2022-05-25 21:28:26,816 - logger - INFO - Training Loss per 5000 steps: 0.428360824074064
+2022-05-25 21:28:26,817 - logger - INFO - Training Accuracy per 5000 steps: 98.28571428571429
+2022-05-25 21:28:31,300 - logger - INFO - Training Loss per 5000 steps: 0.4302970863157703
+2022-05-25 21:28:31,300 - logger - INFO - Training Accuracy per 5000 steps: 97.80645161290323
+2022-05-25 21:28:35,751 - logger - INFO - Training Loss per 5000 steps: 0.43178822209195394
+2022-05-25 21:28:35,752 - logger - INFO - Training Accuracy per 5000 steps: 97.5609756097561
+2022-05-25 21:28:39,953 - logger - INFO - The Total Accuracy for Epoch 11: 97.66881028938907
+2022-05-25 21:28:39,953 - logger - INFO - Training Loss Epoch: 0.42960546135902405
+2022-05-25 21:28:39,953 - logger - INFO - Training Accuracy Epoch: 97.66881028938907
+2022-05-25 21:28:39,954 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:28:39,954 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:28:42,035 - logger - INFO - Validation Accuracy Epoch: 79.9342105263158
+2022-05-25 21:28:42,035 - logger - INFO - Accuracy on test data = 79.93%
+2022-05-25 21:28:43,141 - logger - INFO - Training Loss per 5000 steps: 0.42071107029914856
+2022-05-25 21:28:43,141 - logger - INFO - Training Accuracy per 5000 steps: 96.0
+2022-05-25 21:28:47,571 - logger - INFO - Training Loss per 5000 steps: 0.4325446757403287
+2022-05-25 21:28:47,571 - logger - INFO - Training Accuracy per 5000 steps: 96.36363636363636
+2022-05-25 21:28:52,032 - logger - INFO - Training Loss per 5000 steps: 0.42522471575509935
+2022-05-25 21:28:52,033 - logger - INFO - Training Accuracy per 5000 steps: 97.52380952380952
+2022-05-25 21:28:56,512 - logger - INFO - Training Loss per 5000 steps: 0.4291893022675668
+2022-05-25 21:28:56,512 - logger - INFO - Training Accuracy per 5000 steps: 97.54838709677419
+2022-05-25 21:29:00,984 - logger - INFO - Training Loss per 5000 steps: 0.43005599772057884
+2022-05-25 21:29:00,984 - logger - INFO - Training Accuracy per 5000 steps: 97.65853658536585
+2022-05-25 21:29:05,248 - logger - INFO - The Total Accuracy for Epoch 12: 97.42765273311898
+2022-05-25 21:29:05,248 - logger - INFO - Training Loss Epoch: 0.43228890776634216
+2022-05-25 21:29:05,249 - logger - INFO - Training Accuracy Epoch: 97.42765273311898
+2022-05-25 21:29:05,249 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:29:05,249 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:29:07,354 - logger - INFO - Validation Accuracy Epoch: 80.26315789473684
+2022-05-25 21:29:07,355 - logger - INFO - Accuracy on test data = 80.26%
+2022-05-25 21:29:08,327 - logger - INFO - Training Loss per 5000 steps: 0.43787190318107605
+2022-05-25 21:29:08,327 - logger - INFO - Training Accuracy per 5000 steps: 100.0
+2022-05-25 21:29:12,778 - logger - INFO - Training Loss per 5000 steps: 0.4221836599436673
+2022-05-25 21:29:12,778 - logger - INFO - Training Accuracy per 5000 steps: 99.27272727272727
+2022-05-25 21:29:17,249 - logger - INFO - Training Loss per 5000 steps: 0.4241322037719545
+2022-05-25 21:29:17,250 - logger - INFO - Training Accuracy per 5000 steps: 98.47619047619048
+2022-05-25 21:29:21,731 - logger - INFO - Training Loss per 5000 steps: 0.4256418376199661
+2022-05-25 21:29:21,731 - logger - INFO - Training Accuracy per 5000 steps: 98.45161290322581
+2022-05-25 21:29:26,213 - logger - INFO - Training Loss per 5000 steps: 0.42771850053857013
+2022-05-25 21:29:26,213 - logger - INFO - Training Accuracy per 5000 steps: 98.14634146341463
+2022-05-25 21:29:30,403 - logger - INFO - The Total Accuracy for Epoch 13: 97.82958199356914
+2022-05-25 21:29:30,404 - logger - INFO - Training Loss Epoch: 0.4308851182460785
+2022-05-25 21:29:30,404 - logger - INFO - Training Accuracy Epoch: 97.82958199356914
+2022-05-25 21:29:30,404 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:29:30,405 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:29:32,511 - logger - INFO - Validation Accuracy Epoch: 79.9342105263158
+2022-05-25 21:29:32,511 - logger - INFO - Accuracy on test data = 79.93%
+2022-05-25 21:29:33,568 - logger - INFO - Training Loss per 5000 steps: 0.43839579820632935
+2022-05-25 21:29:33,568 - logger - INFO - Training Accuracy per 5000 steps: 100.0
+2022-05-25 21:29:38,040 - logger - INFO - Training Loss per 5000 steps: 0.444538566199216
+2022-05-25 21:29:38,040 - logger - INFO - Training Accuracy per 5000 steps: 95.63636363636364
+2022-05-25 21:29:42,541 - logger - INFO - Training Loss per 5000 steps: 0.43401993598256794
+2022-05-25 21:29:42,541 - logger - INFO - Training Accuracy per 5000 steps: 96.95238095238095
+2022-05-25 21:29:47,000 - logger - INFO - Training Loss per 5000 steps: 0.4312799496035422
+2022-05-25 21:29:47,000 - logger - INFO - Training Accuracy per 5000 steps: 97.29032258064517
+2022-05-25 21:29:51,448 - logger - INFO - Training Loss per 5000 steps: 0.431285782558162
+2022-05-25 21:29:51,448 - logger - INFO - Training Accuracy per 5000 steps: 97.36585365853658
+2022-05-25 21:29:55,690 - logger - INFO - The Total Accuracy for Epoch 14: 97.26688102893891
+2022-05-25 21:29:55,691 - logger - INFO - Training Loss Epoch: 0.43236673057079317
+2022-05-25 21:29:55,691 - logger - INFO - Training Accuracy Epoch: 97.26688102893891
+2022-05-25 21:29:55,691 - logger - INFO - This is the validation section to logger.info the accuracy and see how it performs
+2022-05-25 21:29:55,691 - logger - INFO - Here we are leveraging on the dataloader crearted for the validation dataset, the approcah is using more of pytorch
+2022-05-25 21:29:57,781 - logger - INFO - Validation Accuracy Epoch: 80.59210526315789
+2022-05-25 21:29:57,781 - logger - INFO - Accuracy on test data = 80.59%
+2022-05-25 21:29:58,646 - logger - INFO - 3
+2022-05-25 21:30:01,657 - logger - INFO - Validation Accuracy Epoch: 83.22368421052632

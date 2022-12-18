@@ -28,7 +28,7 @@ Example:
 
 ### Model Structure
 
-![models](chinese-coreference-resolution\picture\models.png)
+![models](picture\models.png)
 
 
 
@@ -36,4 +36,4 @@ Example:
 
 The result is stored in matric.tsv and average evaluation accuracy is around 80 percent.
 
-![result](chinese-coreference-resolution\picture\result.png)
+![result](picture\result.png)

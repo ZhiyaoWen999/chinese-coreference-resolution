@@ -28,7 +28,7 @@ Example:
 
 ### Model Structure
 
-![models](C:\Users\10617\A代写\指代消解\Transformers-4CLUEWSC2020\指代消解\chinese-coreference-resolution\picture\models.png)
+![models](chinese-coreference-resolution\picture\models.png)
 
 
 
@@ -36,4 +36,4 @@ Example:
 
 The result is stored in matric.tsv and average evaluation accuracy is around 80 percent.
 
-![result](C:\Users\10617\A代写\指代消解\Transformers-4CLUEWSC2020\指代消解\chinese-coreference-resolution\picture\result.png)
+![result](chinese-coreference-resolution\picture\result.png)

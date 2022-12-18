@@ -28,7 +28,7 @@ Example:
 
 ### Model Structure
 
-![models](picture\models.png)
+![models](./picture/models.png)
 
 
 

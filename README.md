@@ -36,4 +36,4 @@ Example:
 
 The result is stored in matric.tsv and average evaluation accuracy is around 80 percent.
 
-![result](picture\result.png)
+![result](./picture/result.png)

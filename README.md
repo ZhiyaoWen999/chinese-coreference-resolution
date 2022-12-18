@@ -28,7 +28,7 @@ Example:
 
 ### Model Structure
 
-![image-20221217163247629](C:\Users\10617\AppData\Roaming\Typora\typora-user-images\image-20221217163247629.png)
+![models](C:\Users\10617\A代写\指代消解\Transformers-4CLUEWSC2020\指代消解\chinese-coreference-resolution\picture\models.png)
 
 
 
@@ -36,4 +36,4 @@ Example:
 
 The result is stored in matric.tsv and average evaluation accuracy is around 80 percent.
 
-![image-20221217163402229](C:\Users\10617\AppData\Roaming\Typora\typora-user-images\image-20221217163402229.png)
+![result](C:\Users\10617\A代写\指代消解\Transformers-4CLUEWSC2020\指代消解\chinese-coreference-resolution\picture\result.png)
